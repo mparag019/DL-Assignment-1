@@ -23,7 +23,7 @@ python train.py --wandb_entity myname --wandb_project myprojectname --dataset fa
 This command runs the train.py script with the specified parameters for training and evaluating the neural network. Adjust the arguments as needed for your specific experiment. After running this you will get the plots for validation accuracy, validation loss, training accuracy, and training loss on wandb
 
 ## Results
-Achieved maximum accuracy of 87.83% for Fashion MNIST dataset and 96.95% for MNIST dataset for the following configuration
+Maximum accuracy of 87.83% for Fashion MNIST dataset and 96.95% for MNIST dataset is achieved for the following configuration
 
 - Model Configuration:
   - Number of Hidden Layers: 5

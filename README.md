@@ -3,7 +3,7 @@
 
 This repository contains Python code for implementing various gradient descent optimization algorithms for training neural networks using back propagation algorithm for a classification task. The primary goal of this project is to explore and compare different optimization techniques and their impact on model training performance.
 
-##Wandb report link: 
+## Wandb report link: 
 https://api.wandb.ai/links/cs23m047/8bnbwbn1
 
 ## Features

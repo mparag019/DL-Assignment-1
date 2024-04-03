@@ -1,4 +1,4 @@
-`# CS6910: DL Assignment 1
+# CS6910: DL Assignment 1
 
 
 This repository contains Python code for implementing various gradient descent optimization algorithms for training neural networks using back propagation algorithm for a classification task. The primary goal of this project is to explore and compare different optimization techniques and their impact on model training performance.
